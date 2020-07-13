@@ -1,0 +1,35 @@
+body{
+    background: darksalmon;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.first-div{
+    display: flex;
+    justify-content: center;
+}
+.second-div{
+    display: flex;
+    justify-content: center;
+}
+.third-div{
+    display: flex;
+    justify-content: center;
+}
+.last-div{
+    display: flex;
+    justify-content: center;
+}
+.item{
+    background: #fff;
+    border: 1px solid red;
+    padding: 3rem;
+}
+#input{
+    padding: 3rem;
+    width: 21%;
+    margin:0rem auto;
+}
